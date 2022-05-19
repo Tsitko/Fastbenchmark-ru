@@ -1,0 +1,1 @@
+data = generate_numeric(numeric_cols, data, use=True)
