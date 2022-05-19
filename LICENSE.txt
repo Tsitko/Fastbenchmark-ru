@@ -1,4 +1,4 @@
-Copyright (c) 2020-2021 Denis Tsitko (denis.tsitko@gmail.com)
+Copyright (c) 2020-2022 Denis Tsitko (denis.tsitko@gmail.com)
 
 Термины:
 ПО - программное обеспечение.
